@@ -1,5 +1,5 @@
 {
-  "name": "HTML",
+  "name": "mdssolutions",
   "homepage": "https://github.com/miltonarmando/mdssolutions",
   "authors": [
     "miltonarmando <miltonarmando@outlook.com>"
@@ -16,10 +16,8 @@
     "tests"
   ],
   "dependencies": {
-    "font-awesome": "^4.6.3",
-    "bootstrap-sass": "^3.3.7",
-    "breakpoint-sass": "^2.7.0",
-    "sass-flex-mixin": "^1.0.3"
+    "lightbox2": "^2.9.0",
+    "slick-carousel": "^1.6.0"
   },
   "devDependencies": {
     "imagehover.css": "*",
