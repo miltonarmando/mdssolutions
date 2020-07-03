@@ -1,5 +1,5 @@
 {
-  "name": "criando-site-responsivo-do-comeco-ao-fim",
+  "name": "mdssolutions",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThiagoAGDev/criando-um-site-responsivo-do-comeco-ao-fim.git"
+    "url": "git+https://github.com/miltonarmando/mdssolutions.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ThiagoAGDev/criando-um-site-responsivo-do-comeco-ao-fim/issues"
+    "url": "https://github.com/miltonarmando/mdssolutions/issues"
   },
-  "homepage": "https://github.com/ThiagoAGDev/criando-um-site-responsivo-do-comeco-ao-fim#readme",
+  "homepage": "https://github.com/miltonarmando/mdssolutions#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-sass": "^2.3.2",
